@@ -1,0 +1,26 @@
+{
+  "name": "aula4-modulo4",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/igorcoelhokk/AULA4-MODULO4#readme",
+  "bugs": {
+    "url": "https://github.com/igorcoelhokk/AULA4-MODULO4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorcoelhokk/AULA4-MODULO4.git"
+  },
+  "license": "ISC",
+  "author": "Igor Gabriel Coelho",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0"
+  }
+}
